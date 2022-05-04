@@ -10,9 +10,3 @@ result = so.linprog(c, A, b, method='simplex')
 print(result)
 
 # Example2.2-2
-# A = np.array([[1, 2], [0.21, -0.3], [0.03, -0.01]])
-# b = np.array([800, 0, 0, 0])
-# c = np.array([0.3, 0.9])
-#
-# result = so.linprog(c, A, b, method='simplex')
-# print(result)
