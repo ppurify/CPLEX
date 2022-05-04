@@ -7,4 +7,3 @@ c = np.array([-5, -4])
 
 result = so.linprog(c, A, b, method='simplex')
 print(result)
-print("HI")
