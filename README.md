@@ -1,3 +1,4 @@
 # 🌳 Pycharm
-### 🌼 Linear Programming
-- [Example2_1_1](https://github.com/ppurify/Pycharm/blob/main/LinearProgramming/Example2_1_1.py)
+## 🌼 Chapter 2 Linear Programming
+### 2.1 Two variable LP Model
+- Solution of a Maximization Model
