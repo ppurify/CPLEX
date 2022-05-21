@@ -4,5 +4,5 @@
 - Solution of a Maximization Model  
 - Solution of a Minimization Model
 
-[Reference](https://ibmdecisionoptimization.github.io/tutorials/html/Linear_Programming.html)
-  
+[Reference1](https://ibmdecisionoptimization.github.io/tutorials/html/Linear_Programming.html)  
+[Reference2](https://medium.com/analytics-vidhya/python-api-of-docplex-for-solving-linear-programming-problems-6ab6f2e9b553)
