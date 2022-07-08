@@ -1,4 +1,4 @@
-## ![image](https://i.postimg.cc/Y020pyrB/2-removebg-preview.png) Chapter 2 Linear Programming
+# ![image](https://i.postimg.cc/SRVrs5c6/2-removebg-preview.png) Chapter 2 Linear Programming
 ### 🌷 Two variable LP Model
 [Example 2](https://github.com/ppurify/Pycharm/blob/main/LinearProgramming/Example2_1.py)
 - Solution of a Maximization Model  
