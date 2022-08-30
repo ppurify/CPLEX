@@ -43,7 +43,7 @@ A = np.array([[1, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1],
 A_T = A.T
 
 # Constraints
-m.add_constraint(t_out - t_in >= h_pl - m0_pl * z_object)
+#m.add_constraint(t_out - t_in >= h_pl - m0_pl * z_object)
 
 #for k in range(len(transition_count)):
 #    m.add_constraint(np.sum(Z_k) == 1)
