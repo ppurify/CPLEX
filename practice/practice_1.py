@@ -75,9 +75,6 @@ for k in range(transition_count):
 
 Z = Z_ki.reshape(transition_count, -1)
 
-
-
-
 # A : |T| x |P|
 A = np.array([[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1],
               [-1, 1, -1, 0, 0, 0, 0, 0, 0, 0, 1],
